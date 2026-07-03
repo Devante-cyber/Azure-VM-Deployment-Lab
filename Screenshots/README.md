@@ -24,7 +24,12 @@
 
 <img width="451" height="390" alt="Logging into VM" src="https://github.com/user-attachments/assets/c288e61a-2dd1-4f18-abc3-0581626719f4" />
 
+<img width="1893" height="1067" alt="Connected to VM" src="https://github.com/user-attachments/assets/aa65e4e5-943d-4d0c-9641-2012e96af176" />
+
 <img width="716" height="400" alt="Checking CPU_Memory" src="https://github.com/user-attachments/assets/d8e1c4db-2e2d-45f8-937e-16030639ec1b" />
+
+<img width="1022" height="453" alt="testing internet connection (2)" src="https://github.com/user-attachments/assets/85a8e11e-1594-4b5f-8c27-a6f537402887" />
+
 
 <img width="1081" height="779" alt="Stopping VM" src="https://github.com/user-attachments/assets/bdc3a363-834e-4395-89fe-231c9fe5a13e" />
 
