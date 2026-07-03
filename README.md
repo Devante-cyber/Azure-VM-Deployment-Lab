@@ -74,3 +74,30 @@ The objective of this lab is to demonstrate how to deploy and manage a Windows V
 <img width="846" height="737" alt="image" src="https://github.com/user-attachments/assets/430acac1-29d3-4f54-ae49-d42657c218cd" />
 
 ##  Step 4: Review and Deploy VM
+- Deployment is complete
+
+  <img width="1062" height="508" alt="image" src="https://github.com/user-attachments/assets/8abf5e82-ae15-49f4-9b06-593d22042aa1" />
+
+## Step 5: Connect to the Virtual Machine
+
+- Go to **Virtual Machines**
+- Select `VM-Lab-01`
+
+<img width="863" height="544" alt="image" src="https://github.com/user-attachments/assets/915e934d-bc5d-472f-b3c9-058ccc6774c9" />
+
+- Copy the **Public IP Address**
+- Open **Remote Desktop Connection (mstsc)** on your PC
+
+  <img width="403" height="215" alt="image" src="https://github.com/user-attachments/assets/f661744d-924c-471d-9cf3-d5b57a8b8920" />
+
+  <img width="414" height="246" alt="image" src="https://github.com/user-attachments/assets/01c00113-0b11-48c9-b2a8-8359d3096f72" />
+
+
+- Enter credentials:
+
+<img width="451" height="390" alt="image" src="https://github.com/user-attachments/assets/cbf39733-70cd-45a2-9982-3afe9403e3d1" />
+
+
+
+  
+
