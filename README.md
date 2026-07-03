@@ -97,7 +97,55 @@ The objective of this lab is to demonstrate how to deploy and manage a Windows V
 
 <img width="451" height="390" alt="image" src="https://github.com/user-attachments/assets/cbf39733-70cd-45a2-9982-3afe9403e3d1" />
 
+## You should now be logged into a Windows desktop environment hosted in Azure
 
+<img width="1893" height="1067" alt="image" src="https://github.com/user-attachments/assets/0b7a2676-1506-426d-9014-48340a83d6ef" />
+
+## Step 6: Validate System Access
+
+- Once logged in:
+- Open **Task Manager**
+
+<img width="716" height="400" alt="image" src="https://github.com/user-attachments/assets/9995360b-43e1-4750-9432-fe74b5ac0982" />
+ 
+- Check CPU and memory usage
+
+<img width="716" height="400" alt="image" src="https://github.com/user-attachments/assets/04435cb2-7696-4ddc-81ee-ad44cad5ce16" />
+ 
+- Confirm internet connectivity (open Edge)
+
+  <img width="1512" height="658" alt="image" src="https://github.com/user-attachments/assets/bfb7b8b8-675b-46a4-bfe7-c2b1913c0fe2" />
+
+## Step 7: Stop and Deallocate the VM (Cost Control)
+
+- Return to Azure Portal
+- Select the VM
+  
+<img width="1081" height="779" alt="image" src="https://github.com/user-attachments/assets/b39d9418-07bb-4567-b1da-767ee01f0d4a" />
+  
+- Click **Stop**
+
+   <img width="1081" height="779" alt="image" src="https://github.com/user-attachments/assets/d008c951-1b59-4816-9891-a52d44916aa0" />
+
+5. Confirm **Deallocate**
+
+<img width="758" height="567" alt="image" src="https://github.com/user-attachments/assets/7de2589e-7253-4b1b-9f65-de406fdf6da8" />
+
+## Cost Control
+
+- The virtual machine was stopped and deallocated after testing to prevent unnecessary Azure charges.
+
+# What I Learned
+
+- How to deploy and configure a virtual machine in Microsoft Azure
+- How cloud networking enables secure remote access (RDP over port 3389)
+- How resource groups help organize cloud infrastructure
+- How to manage cloud costs by stopping/deallocating resources
+- How to operate a Windows environment in a cloud-hosted VM
+
+##  Key Takeaways
+
+This lab demonstrates foundational cloud computing and system administration skills used in IT environments, including virtual machine provisioning, remote access configuration, and basic network security concepts.
 
   
 
